@@ -1,0 +1,23 @@
+#define _background	#000000
+#define _backgroundTr	argb:82000000
+#define _backgroundUR	[85]#000000
+#define _foreground	#ffffff
+#define _foregroundTr	argb:82ffffff
+#define _cursor 	#688891
+#define _color0		#282828
+#define _color1		#b76969
+#define _color2		#719d72
+#define _color3		#909858
+#define _color4		#68668f
+#define _color5		#966894
+#define _color6		#688891
+#define _color7		#8e8e8e
+#define _color8		#494949
+#define _color9		#b87e7e
+#define _color10	#839d84
+#define _color11	#919864
+#define _color12	#73718f
+#define _color13	#987397
+#define _color14	#758c93
+#define _color15	#aeaeae
+

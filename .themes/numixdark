@@ -1,0 +1,23 @@
+! ---- Numix Dark ---- !
+#define _background	#282828
+#define _backgroundTr	argb:86282828
+#define _backgroundUR	[85]:282828
+#define _foreground	#a2a2a2
+#define _foregroundTr	argb:86a2a2a2
+#define _cursor		#37c3d6
+#define _color0		#555555
+#define _color1		#9c3528
+#define _color2		#61bc3b
+#define _color3		#f3b43a
+#define _color4		#0d68a8
+#define _color5		#744560
+#define _color6		#288e9c
+#define _color7		#a2a2a2
+#define _color8		#888888
+#define _color9		#d64937
+#define _color10	#86df5d
+#define _color11	#fdd75a
+#define _color12	#0f75bd
+#define _color13	#9e5e83
+#define _color14	#37c3d6
+#define _color15	#f9f9f9
